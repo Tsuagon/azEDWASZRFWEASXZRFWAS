@@ -65,6 +65,10 @@ ScriptsTab:NewButton("Chill", "You can get a lot of peoples attention with this.
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FEChill.lua"))()
 end)
 
+ScriptsTab:NewButton("Kenshiro", "The one who started it all.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/MANSIHRO/main/ohhhhyeaahh"))()
+end)
+
 ScriptsTab:NewButton("Lutris v2", "Definetely an OP script. Join discord for hat", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Lustris%20V2.lua"))()
 end)
