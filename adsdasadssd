@@ -101,10 +101,6 @@ ScriptsTab:NewButton("Minigun", "Have fun spraying skids.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FEminigun.lua"))()
 end)
 
-ScriptsTab:NewButton("The World Over Heaven", "The original Over Heaven Stand.", function()
-	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/DAWARUDOTOKIWO/main/TORAME"))()
-end)
-
 ScriptsTab:NewButton("Lightning Sword", "Similar to Dual Ultima. its basiclly an edit.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/LightningSword.lua"))()
 end)
