@@ -49,7 +49,7 @@ ScriptsTab:NewButton("The World", "Another script for JoJotards.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/rweaszxdawszdwasz/main/antiurmom"))()
 end)
 
-ScriptsTab:NewButton("Star Platinum: The World", "Another one bites the dust.", function()
+ScriptsTab:NewButton("Star Platinum The World", "Another one bites the dust.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/PARSLATTHEOWLER/main/SASDADWSFWEAS"))()
 end)
 
