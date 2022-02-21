@@ -45,6 +45,10 @@ ScriptsTab:NewButton("Elio Blasio", "Literally anyone with a gun. If you want ha
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Elio%20Balsio.lua"))()
 end)
 
+ScriptsTab:NewButton("The World", "Another script for JoJotards.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/rweaszxdawszdwasz/main/antiurmom"))()
+end)
+
 ScriptsTab:NewButton("Ender", "Smashy boi", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FinalEnderVersionDeObfuscated.lua"))()
 end)
