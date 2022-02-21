@@ -69,6 +69,10 @@ ScriptsTab:NewButton("Kenshiro", "The one who started it all.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/MANSIHRO/main/ohhhhyeaahh"))()
 end)
 
+ScriptsTab:NewButton("Hermit Purple", "The best Stand owned by the best JoJo.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/FLIPTHEDOWNSIDE/main/GONNAKEEPASKING"))()
+end)
+
 ScriptsTab:NewButton("Lutris v2", "Definetely an OP script. Join discord for hat", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Lustris%20V2.lua"))()
 end)
