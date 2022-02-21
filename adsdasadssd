@@ -58,7 +58,7 @@ ScriptsTab:NewButton("KillBot V2", "The script kinda sucks lol", function()
 end)
 
 ScriptsTab:NewButton("Star Platinum Over Heaven", "A really fun script for people who have played a jojo game before.", function()
-	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FEStandConverted.lua"))()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/chicken-tendderrsss/main/STARPLAT"))()
 end)
 
 ScriptsTab:NewButton("Chill", "You can get a lot of peoples attention with this.", function()
