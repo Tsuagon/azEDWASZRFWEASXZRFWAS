@@ -81,6 +81,10 @@ ScriptsTab:NewButton("Lutris v2", "Definetely an OP script. Join discord for hat
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Lustris%20V2.lua"))()
 end)
 
+ScriptsTab:NewButton("Part 6 Jotaro Timestop", "Another timestop script.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/PARSLATINUM-PART-6/main/chickenTENNDDERRSS"))()
+end)
+
 ScriptsTab:NewButton("Memeus v2.5", "Dead memes from 2019 (some arent dead)", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Memeus.lua"))()
 end)
