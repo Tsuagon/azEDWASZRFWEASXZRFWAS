@@ -77,6 +77,10 @@ ScriptsTab:NewButton("Lutris v2", "Definetely an OP script. Join discord for hat
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Lustris%20V2.lua"))()
 end)
 
+ScriptsTab:NewButton("Gold Experience Requiem", "A decent Stand for the worst JoJo.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/GOLDTHEEXRF/main/ADDASD"))()
+end)
+
 ScriptsTab:NewButton("Memeus v2.5", "Dead memes from 2019 (some arent dead)", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Memeus.lua"))()
 end)
