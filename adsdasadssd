@@ -141,6 +141,10 @@ ScriptsTab:NewButton("Glove & Sword", "The script isn't broken press f to equip.
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Glove%20and%20sword.lua"))()
 end)
 
+ScriptsTab:NewButton("Time Erase", "The rusted chains of prison moons are shattered by the sun.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/kingtheCRIMSON/main/COURT"))()
+end)
+
 ScriptsTab:NewButton("Reaper", "Reaper from Overwatch", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Reaper.lua"))()
 end)
