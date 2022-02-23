@@ -46,7 +46,7 @@ ScriptsTab:NewButton("Elio Blasio", "Literally anyone with a gun. If you want ha
 end)
 
 ScriptsTab:NewButton("The World", "Another script for JoJotards.", function()
-	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/rweaszxdawszdwasz/main/antiurmom"))()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/FUCKFAWSWRDFASZFSD/main/ADASAA"))()
 end)
 
 ScriptsTab:NewButton("Ender", "Smashy boi", function()
