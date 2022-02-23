@@ -81,7 +81,7 @@ ScriptsTab:NewButton("Memeus v2.5", "Dead memes from 2019 (some arent dead)", fu
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Memeus.lua"))()
 end)
 
-ScriptsTab:NewButton("Road Roller", "Throw a gigantic road roller onto people using the force of a homosexual vampire.", function()
+ScriptsTab:NewButton("Road Roller", "a", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/ROADMYREOLLER/main/RWADSRFWE4SD"))()
 end)
 
