@@ -61,6 +61,10 @@ ScriptsTab:NewButton("Star Platinum Over Heaven", "A really fun script for peopl
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/chicken-tendderrsss/main/STARPLAT"))()
 end)
 
+ScriptsTab:NewButton("The Emperor", "A simple Stand for the best minor villain in all of JoJo.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/BUMBUMTHEE/main/RWESAZRWEF3AS"))()
+end)
+
 ScriptsTab:NewButton("Chill", "You can get a lot of peoples attention with this.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FEChill.lua"))()
 end)
