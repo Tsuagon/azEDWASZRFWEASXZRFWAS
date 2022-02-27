@@ -58,7 +58,7 @@ ScriptsTab:NewButton("KillBot V2", "The script kinda sucks lol", function()
 end)
 
 ScriptsTab:NewButton("Gaster Blasters", "The weird dragon skull things used by Sans.", function()
-	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/GASTERNI/main/DASWZWASDEZ"))()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/imsickandtiredJUSTFUCKINGWORK/main/FUCKOYU"))()
 end)
 
 
