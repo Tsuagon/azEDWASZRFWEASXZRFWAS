@@ -50,7 +50,7 @@ ScriptsTab:NewButton("The World", "Another script for JoJotards.", function()
 end)
 
 ScriptsTab:NewButton("Bloxy Grey (JoJo Stand Script)", "ANOTHER script for JoJotards.", function()
-	loadstring(https://raw.githubusercontent.com/Tsuagon/BLOODYSTAND/main/BUMBUBM"))()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/BLOODYSTAND/main/BUMBUBM"))()
 end)
 
 ScriptsTab:NewButton("Ender", "Smashy boi", function()
