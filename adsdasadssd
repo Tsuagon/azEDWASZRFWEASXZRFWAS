@@ -49,6 +49,10 @@ ScriptsTab:NewButton("The World", "Another script for JoJotards.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/FUCKFAWSWRDFASZFSD/main/ADASAA"))()
 end)
 
+ScriptsTab:NewButton("Bloxy Grey (JoJo Stand Script)", "ANOTHER script for JoJotards.", function()
+	loadstring(https://raw.githubusercontent.com/Tsuagon/BLOODYSTAND/main/BUMBUBM"))()
+end)
+
 ScriptsTab:NewButton("Ender", "Smashy boi", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FinalEnderVersionDeObfuscated.lua"))()
 end)
