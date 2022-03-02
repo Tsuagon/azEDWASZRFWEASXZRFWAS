@@ -53,6 +53,10 @@ ScriptsTab:NewButton("Ender", "Smashy boi", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FinalEnderVersionDeObfuscated.lua"))()
 end)
 
+ScriptsTab:NewButton("Nameless R6 NPC", "Pretty cool, init?", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/BLOODYSTAND/main/BUMBUBM"))()
+end)
+
 ScriptsTab:NewButton("KillBot V2", "The script kinda sucks lol", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/KillbotV2.lua"))()
 end)
