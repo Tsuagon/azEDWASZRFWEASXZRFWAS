@@ -78,6 +78,10 @@ ScriptsTab:NewButton("Chill", "You can get a lot of peoples attention with this.
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FEChill.lua"))()
 end)
 
+ScriptsTab:NewButton("Goku", "Can he beat... Goku though?", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/CANHEBEATGOKUTHOUGH/main/BRUHOKU"))()
+end)
+
 ScriptsTab:NewButton("Kenshiro", "The one who started it all.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/MANSIHRO/main/ohhhhyeaahh"))()
 end)
