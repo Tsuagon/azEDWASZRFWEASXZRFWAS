@@ -142,6 +142,10 @@ ScriptsTab:NewButton("Corrupted Overseer", "My favorite script.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Corrupted%20Overseer.lua"))()
 end)
 
+ScriptsTab:NewButton("Super Saiyan Three Goku", "No more edgy music...", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/RFWASZRFWASRDWAS/main/BRWDASZSAGOKUMUI"))()
+end)
+
 ScriptsTab:NewButton("Darth Vadar", "For the star wars fans.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Darth%20Vadar.lua"))()
 end)
