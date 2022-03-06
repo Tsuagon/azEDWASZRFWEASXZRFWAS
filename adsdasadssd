@@ -254,6 +254,10 @@ ScriptsTab:NewButton("Shedletsky Rage", "Not to much about it.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Shedletsky%20Rage.lua"))()
 end)
 
+ScriptsTab:NewButton("Vegito Blue", "The GOOD kind of fusion.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/veigo/main/AGAGAGAGA"))()
+end)
+
 ScriptsTab:NewButton("Nebula Star Glitcher", "Yes it has the big black lol.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Nebula%20Star%20Glitcher.lua"))()
 end)
