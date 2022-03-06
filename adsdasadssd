@@ -146,6 +146,10 @@ ScriptsTab:NewButton("Super Saiyan Three Goku", "No more edgy music...", functio
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/RFWASZRFWASRDWAS/main/BRWDASZSAGOKUMUI"))()
 end)
 
+ScriptsTab:NewButton("New SSJ Broly", "DAMN HE'S HOT", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/WASRASASRAGGHHHHH/main/NICETOMEET"))()
+end)
+
 ScriptsTab:NewButton("Darth Vadar", "For the star wars fans.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Darth%20Vadar.lua"))()
 end)
