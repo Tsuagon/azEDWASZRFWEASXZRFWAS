@@ -74,6 +74,10 @@ ScriptsTab:NewButton("The Emperor", "A simple Stand for the best minor villain i
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/BUMBUMTHEE/main/RWESAZRWEF3AS"))()
 end)
 
+ScriptsTab:NewButton("Vegeta", "Another Saiyan, damn those dudes.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/OVER9000/main/WHAT9000"))()
+end)
+
 ScriptsTab:NewButton("Chill", "You can get a lot of peoples attention with this.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FEChill.lua"))()
 end)
