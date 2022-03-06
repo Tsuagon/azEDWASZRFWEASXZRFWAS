@@ -114,8 +114,12 @@ ScriptsTab:NewButton("Krystal dance", "Some nice dances. My favorite is U.", fun
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Krystal%20Dance.lua"))()
 end)
 
-ScriptsTab:NewButton("Goku Two", "he cant beat goku lol", function()
+ScriptsTab:NewButton("Goku Alt Version", "he cant beat goku lol", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/EDASZDESZXEFSGGGGGG/main/DRAG"))()
+end)
+
+ScriptsTab:NewButton("Goku Ultra Instinct", "He... CAN beat Goku???", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/RFWASZRFWASRDWAS/main/BRWDASZSAGOKUMUI"))()
 end)
 
 ScriptsTab:NewButton("Spinning Blade", "Definetely has the best idle animation", function()
