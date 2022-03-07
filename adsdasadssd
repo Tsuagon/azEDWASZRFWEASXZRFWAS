@@ -61,6 +61,10 @@ ScriptsTab:NewButton("KillBot V2", "The script kinda sucks lol", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/KillbotV2.lua"))()
 end)
 
+ScriptsTab:NewButton("Goku Alt Two", "There are so many Gokus... why...", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/SEINFELDohitsgoku/main/YOUB"))()
+end)
+
 ScriptsTab:NewButton("Gaster Blasters", "The weird dragon skull things used by Sans.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/imsickandtiredJUSTFUCKINGWORK/main/FUCKOYU"))()
 end)
