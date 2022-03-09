@@ -154,8 +154,12 @@ ScriptsTab:NewButton("Super Saiyan Three Goku", "No more edgy music...", functio
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/RFWASZRFWASRDWAS/main/BRWDASZSAGOKUMUI"))()
 end)
 
-ScriptsTab:NewButton("New SSJ Broly", "DAMN HE'S HOT", function()
+ScriptsTab:NewButton("New SSJ Broly Alt Version", "DAMN HE'S HOT", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/WASRASASRAGGHHHHH/main/NICETOMEET"))()
+end)
+
+ScriptsTab:NewButton("New SSJ Broly", "HE'S SO HOTTTT HOLYYYYYYY", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/BROLYPLSS/main/SADASWSDX"))()
 end)
 
 ScriptsTab:NewButton("Darth Vadar", "For the star wars fans.", function()
