@@ -37,6 +37,10 @@ ScriptsTab:NewButton("Sonic", "All other versions don't fling except this one.",
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/FESonic.lua"))()
 end)
 
+ScriptsTab:NewButton("Luffy", "Gomu powers...", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/the-luffy-man/main/faszdasz"))()
+end)
+
 ScriptsTab:NewButton("Joy", "Its got some cute stufff", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tescalus/Evolution-Hub/main/Joy.lua"))()
 end)
