@@ -77,6 +77,9 @@ ScriptsTab:NewButton("Gaster Blasters", "The weird dragon skull things used by S
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/imsickandtiredJUSTFUCKINGWORK/main/FUCKOYU"))()
 end)
 
+ScriptsTab:NewButton("Star Platinum: The World", "Star Platinum, but a little weaker and with a new ability.", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/PLEASE/main/OREGA%20SABOCK"))()
+end)
 
 ScriptsTab:NewButton("Star Platinum Over Heaven", "A really fun script for people who have played a jojo game before.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/chicken-tendderrsss/main/STARPLAT"))()
