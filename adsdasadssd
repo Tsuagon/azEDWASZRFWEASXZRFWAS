@@ -109,6 +109,10 @@ ScriptsTab:NewButton("Goku", "Can he beat... Goku though?", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/CANHEBEATGOKUTHOUGH/main/BRUHOKU"))()
 end)
 
+ScriptsTab:NewButton("Gogeta", "GOOOOOOOOOGEEEEETAAAAAAAAAAAAAA", function()
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/go-broly-gogeta/main/SUPAAA%20BROWLYYYY"))()
+end)
+
 ScriptsTab:NewButton("Kenshiro", "The one who started it all.", function()
 	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tsuagon/MANSIHRO/main/ohhhhyeaahh"))()
 end)
